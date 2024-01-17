@@ -1,0 +1,46 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 56px;
+}
+
+.section1 {
+    color: white;
+}
+
+.h2 {
+    margin-left: 25px;
+    margin-bottom: 2rem;
+}
+
+.paragraph {
+    text-align: left;
+    margin-left: 2rem;
+}
+
+.sg-map {
+    margin-left: -2rem;
+}
+
+#info {
+    text-align: left;
+    margin-left: -23px;
+}
+
+#fullpage {
+    margin-top: 56px;
+}
+
+#user-icon {
+    font-size: 4rem;
+    align-items: center;
+}
+
+.hotspot {
+    position: absolute;
+    background-color: rgb(0, 191, 255);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    cursor: pointer;
+}
